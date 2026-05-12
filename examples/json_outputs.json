@@ -1,0 +1,34 @@
+{
+  "Feedback_ID": "FB-98765",
+  "Overall_Customer_Sentiment": "Very Negative",
+  "Issues": [
+    {
+      "Issue_ID": "ISSUE-A",
+      "Main_Category": "Product Issue",
+      "Customer_Sentiment_for_Issue": "Very Negative",
+      "Issue_Summary": "Customer received a defective Smart Coffee Maker that is leaking and requests a replacement or refund.",
+      "Order_Reference_ID": "#GGX88990",
+      "Product_Reference": "Smart Coffee Maker",
+      "Actionable_Resolution_Points": [
+        "Initiate return process",
+        "Provide replacement or refund",
+        "Send return instructions"
+      ],
+      "Priority": "High"
+    },
+    {
+      "Issue_ID": "ISSUE-B",
+      "Main_Category": "Account Issue",
+      "Customer_Sentiment_for_Issue": "Very Negative",
+      "Issue_Summary": "Customer account displays incorrect order history and prevents shipping address updates.",
+      "Order_Reference_ID": "N/A",
+      "Product_Reference": "N/A",
+      "Actionable_Resolution_Points": [
+        "Correct account history",
+        "Fix address update functionality",
+        "Confirm issue resolution"
+      ],
+      "Priority": "High"
+    }
+  ]
+}
