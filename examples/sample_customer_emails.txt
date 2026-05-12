@@ -1,0 +1,39 @@
+==============================
+EXAMPLE 1 — DELIVERY PROBLEM
+==============================
+
+Subject: Delivery confusion for order #GGX33445
+
+My order #GGX33445 (a "Premium Coffee Maker") was marked as delivered two days ago, but I haven't received it. My neighbor also didn't get it. The tracking link just says "delivered." Can you please investigate with the shipping company and give me an update?
+
+
+==============================
+EXAMPLE 2 — PRODUCT ISSUE
+==============================
+
+Subject: Missing item in my order #GGX56789
+
+Hi,
+
+I received my order #GGX56789 today, but the "Wireless Headphones" listed on the invoice were not in the package. I needed them urgently for a trip this weekend. Please send the missing item immediately or issue a refund.
+
+This is very frustrating.
+
+
+==============================
+EXAMPLE 3 — MULTI-ISSUE CUSTOMER EMAIL
+==============================
+
+Subject: Problems with my recent order and account!
+
+Hello,
+
+I'm writing because I have two serious issues.
+
+First, the "Smart Coffee Maker" (Order #GGX88990) I bought is defective; it keeps leaking. I want a replacement or a full refund.
+
+Second, my online account has been showing incorrect order history for months, and I can't update my shipping address.
+
+This is very frustrating, and I've tried calling customer service but couldn't get through.
+
+Please fix my account and send instructions for the coffee maker return.
