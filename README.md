@@ -267,8 +267,30 @@ enterprise-generative-ai-customer-feedback-analyzer/
     └── project_summary.md
 ```
 
+
 ---
 
+# Prompt Engineering Techniques
+
+The project applies multiple advanced prompt engineering techniques designed for enterprise AI workflows:
+
+- Zero-shot prompting
+- Few-shot prompting
+- Structured prompting
+- Role-based prompting
+- Prompt hardening
+- JSON-constrained generation
+- Grounding techniques
+- Retrieval-Augmented Generation (RAG) concepts
+
+These techniques were used to improve:
+- output reliability,
+- extraction accuracy,
+- response consistency,
+- workflow automation quality,
+- and enterprise AI robustness.
+
+---
 # Skills Demonstrated
 
 * Enterprise AI Solution Design
