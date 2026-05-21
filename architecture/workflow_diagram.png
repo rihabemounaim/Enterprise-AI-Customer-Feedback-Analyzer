@@ -1,11 +1,17 @@
 Customer Email
       ↓
-Prompt Template
+Prompt Template Loading
       ↓
-SAP Generative AI Hub
+Prompt Injection & Preparation
       ↓
-LLM Processing
+SAP Generative AI Hub / LLM
       ↓
-Structured JSON Output
+Information Extraction
+      ↓
+Structured JSON Validation
+      ↓
+Priority & Sentiment Analysis
       ↓
 Business Department Routing
+      ↓
+Enterprise Workflow Integration
