@@ -164,6 +164,17 @@ This orchestration layer demonstrates how Generative AI systems can be operation
 
 ---
 
+# SAP AI SDK Integration
+
+The project integrates SAP AI SDK (`sap-ai-sdk-gen`) concepts to simulate enterprise-grade interaction with Generative AI services.
+
+This includes:
+- Prompt execution workflows
+- Structured response handling
+- AI service orchestration
+- Enterprise AI integration concepts
+- LLM-driven automation pipelines---
+
 # Example Use Cases
 
 ## Product Issues
