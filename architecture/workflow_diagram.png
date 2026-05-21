@@ -1,17 +1,21 @@
 Customer Email
       ↓
-Prompt Template Loading
+Prompt Loader
       ↓
-Prompt Injection & Preparation
+Prompt Engineering Layer
       ↓
-SAP Generative AI Hub / LLM
+SAP Generative AI Hub
       ↓
-Information Extraction
+LLM Inference
       ↓
-Structured JSON Validation
+Grounding / Context Alignment
       ↓
-Priority & Sentiment Analysis
+Structured JSON Extraction
       ↓
-Business Department Routing
+Validation Layer
       ↓
-Enterprise Workflow Integration
+Issue Prioritization
+      ↓
+Department Routing
+      ↓
+Enterprise Workflow Automation
