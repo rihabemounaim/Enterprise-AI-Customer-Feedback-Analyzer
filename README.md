@@ -96,6 +96,7 @@ This enables the LLM to remain aligned with enterprise business context and oper
 - Gemini
 - Mistral AI
 - Large Language Models (LLMs)
+- SAP AI SDK (`sap-ai-sdk-gen`)
 
 ---
 
@@ -135,15 +136,21 @@ This enables the LLM to remain aligned with enterprise business context and oper
 ```text
 Customer Email
       ↓
-Prompt Template (SAP Generative AI Hub)
+Prompt Loader & Injection
       ↓
-LLM Processing
+SAP Generative AI Hub / LLM
       ↓
-Information Extraction & Classification
+Grounding & Prompt Engineering
       ↓
-Structured JSON Output
+Structured Information Extraction
       ↓
-Business Workflow Routing
+JSON Validation Layer
+      ↓
+Priority & Sentiment Classification
+      ↓
+Department Routing
+      ↓
+Enterprise Workflow Integration
 ````
 
 ---
@@ -173,7 +180,9 @@ This includes:
 - Structured response handling
 - AI service orchestration
 - Enterprise AI integration concepts
-- LLM-driven automation pipelines---
+- LLM-driven automation pipelines
+
+---
 
 # Example Use Cases
 
